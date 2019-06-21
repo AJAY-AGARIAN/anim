@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.anim">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <uses-permission android:name="android.permission.ACCESS_ASSISTED_GPS" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/idea"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/idea"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".categories" />
+        <activity android:name=".goweb" />
+        <activity android:name=".showlist" />
+        <activity android:name=".studyShowlist" />
+        <activity android:name=".picShowlist" />
+        <activity android:name=".videoShowlist" />
+        <activity android:name=".splShowlist" />
+        <activity android:name=".voiceShowlist" />
+        <activity android:name=".fontShowlist" />
+        <activity android:name=".lifeShowlist" />
+        <activity android:name=".othrShowlist" />
+        <activity android:name=".studygoweb" />
+        <activity android:name=".picGoweb" />
+        <activity android:name=".videoGoweb" />
+        <activity android:name=".splGoweb" />
+        <activity android:name=".voiceGoweb" />
+        <activity android:name=".fontGoweb" />
+        <activity android:name=".lifeGoweb" />
+        <activity android:name=".othrGoweb" />
+        <activity android:name=".about" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

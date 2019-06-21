@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/andada</item>
+        <item>@font/arbutus_slab</item>
+        <item>@font/average</item>
+        <item>@font/cormorant_sc_medium</item>
+    </array>
+</resources>

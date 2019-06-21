@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Use.fULLY</string>
+    <string name="welcome">Use.fULLY</string>
+    <string name="categories">Categories</string>
+    <string name="share">Share</string>
+    <string name="all">All</string>
+    <string name="study">Study</string>
+    <string name="pic">Picture</string>
+    <string name="video">Video</string>
+    <string name="special">Special</string>
+    <string name="voice">Voice</string>
+    <string name="font">Font</string>
+    <string name="life">Lifestyle</string>
+    <string name="other">Others</string>
+    <string name="about">About</string>
+    <string name="aboutapp">About App</string>
+    <string name="aboutdev">About Developer</string>
+    <string name="Credits">Credits</string>
+    <string name="contact">Contact</string>
+    <string name="email">Email- ajkrishna7117me@gmail.com</string>
+    <string name="call">Call/WhatsApp- 9496482408</string>
+    <string name="name">Name- Ajay Krishna P</string>
+    <string name="stackoverflow">1. www.stackoverflow.com -Technical support.</string>
+    <string name="github">2. www.github.com -Open source contents</string>
+    <string name="devand">3. www.developer.android.com -Technical support</string>
+    <string name="flaticon">4. www.flaticon.com - for all awesome icons in this app.</string>
+    <string name="college">B.Tech CSE student at Hindustan Institute of Technology and Science, Chennai</string>
+    <string name="hometown">Hometown- Thiruvananthapuram, Kerala</string>
+    <string name="aboutText">Use.fULLY is an android app which will introduce you some of the most useful websites from around the globe.
+        The websites are categorised into 9 categories by which it will be easy for you to go directly to the websites, you would be interested in.
+        The app does not contain ads.This app can take you to 100 websites and hope you will find a few websites which will be useful to you.</string>
+
+</resources>
